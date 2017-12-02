@@ -21,8 +21,8 @@ function iLoveTheBeatles(num) {
   var arr = [];
   do {
     
-    num++
+    num++;
   }
   while (num < 15);
-  return arr
+  return arr;
 }
